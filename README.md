@@ -1,6 +1,11 @@
-<img align="center" src="https://raw.githubusercontent.com/Manas-Garg/Manas-Garg/main/ban.png"/>
+<p align="center">
+  <img src="https://github.com/chandrikadeb7/chandrikadeb7/blob/master/readme.gif">
+</p>
+ 
+<p align="left"> Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+<img src=https://komarev.com/ghpvc/?username=chandrikadeb7 alt=chandrikadeb7/></p>
 
-### Hi there 👋 I am Manas Garg!
+### I am Manas Garg!
 
 ## About Me
 
