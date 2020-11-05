@@ -1,16 +1,13 @@
-### Hi there 👋
+<img align="center" src="https://raw.githubusercontent.com/Manas-Garg/Manas-Garg/main/ban.png"/>
 
-<!--
-**Manas-Garg/Manas-Garg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I am Manas Garg!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m specialized and exploring more in Machine Learning and Deep Learning
+- 🌱 I love making Chatbots as well
+- 💻 I also work on full stack web development, mobile app development, UI/UX design, and Cloud Deployment
+- 👯 I’m looking to collaborate on interesting real-life projects
+- 💬 Ask me about AI and emerging technologies
+- 📫 How to reach me: manasgarg02@gmail.com
+- ⚡ Fun fact: Visit my startup's webpage: www.machinaatechnology.wordpress.com
