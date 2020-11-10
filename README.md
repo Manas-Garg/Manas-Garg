@@ -2,8 +2,8 @@
   <img src="https://github.com/chandrikadeb7/chandrikadeb7/blob/master/readme.gif">
 </p>
  
-<p align="left"> Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-<img src=https://komarev.com/ghpvc/?username=chandrikadeb7 alt=chandrikadeb7/></p>
+<p align="left"> Hello Folks! :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+<img src=https://komarev.com/ghpvc/?username=chandrikadeb7 alt=Manas-Garg/></p>
 
 ### I am Manas Garg!
 
