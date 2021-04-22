@@ -21,7 +21,7 @@
 - 👯 I’m looking to collaborate on interesting real-life projects
 - 💬 Ask me about AI and emerging technologies
 - 📫 How to reach me: manasgarg02@gmail.com
-- ⚡ Fun fact: Visit my startup's webpage:<br> www.machinaatechnology.wordpress.com
+- ⚡ Fun fact: Visit my startup's webpage:<br> https://www.machinaatechnology.org
 
 
 ### Show some ❤️ by starring some of the repositories!
