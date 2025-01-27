@@ -9,7 +9,6 @@
  
  
 <p align="left"> Glad to see you here! :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-<img src=https://komarev.com/ghpvc/?username=chandrikadeb7 alt=Manas-Garg/></p>
 
 ## About Me
 
